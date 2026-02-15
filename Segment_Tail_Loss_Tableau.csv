@@ -1,0 +1,7 @@
+Segment,Avg_Tail_Loss,Scenario
+HNI,73142.44019846615,Normal Market
+Institutional,36179.04271398982,Normal Market
+Retail,79203.1334631507,Normal Market
+HNI,75157.30058638792,Stress Market
+Institutional,29625.30692934163,Stress Market
+Retail,82726.98154523158,Stress Market
